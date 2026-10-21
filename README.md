@@ -203,3 +203,15 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ⭐ Follow along as this repository fills up, one accepted solution at a time.
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Guruvesh03/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Guruvesh03/Leetcode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
